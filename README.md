@@ -40,7 +40,8 @@ Storing News to DB and or InMemory based on News Categroy
 
 StoreNewsFeed(URL: http://localhost:8081/storeNewsFeed) Below are the Screen Shot link 
 Input : ContentType:Sports and NewsPriority:1(Breaking News)
-https://github.com/shamkuma/newsFeed/images/SaveScenario_Sports_BreakingNews.jpg
+https://github.com/shamkuma/newsFeed/blob/master/images/SaveScenario_Sports_BreakingNews.jpg
+
 
 
 
