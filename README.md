@@ -46,43 +46,43 @@ https://github.com/shamkuma/newsFeed/blob/master/images/SaveScenario_Sports_Brea
 
 
 Input : ContentType:Finance and NewsPriority:1(Breaking News)
-https://github.com/shamkuma/newsFeed/images/SaveScenario_Finance_BreakingNews.jpg
+https://github.com/shamkuma/newsFeed/blob/master/images/SaveScenario_Finance_BreakingNews.jpg
 
 
 
 
 Input : ContentType:”General” and NewsPriority:1(Breaking News)
-https://github.com/shamkuma/newsFeed/images/SaveScenario_General_BreakingNews.jpg
+https://github.com/shamkuma/newsFeed/blob/master/images/SaveScenario_General_BreakingNews.jpg
 
 
 Input : ContentType:Finance and NewsPriority:2(General)
-https://github.com/shamkuma/newsFeed/images/SaveScenario_General_GeneralNews.jpg
+https://github.com/shamkuma/newsFeed/blob/master/blob/master/images/SaveScenario_General_GeneralNews.jpg
 
 
 Input : ContentType:”Sports” and NewsPriority:2(General)
-https://github.com/shamkuma/newsFeed/images/SaveScenario_Sports_GeneralNews.jpg
+https://github.com/shamkuma/newsFeed/blob/master/images/SaveScenario_Sports_GeneralNews.jpg
 
 
 
 Input : ContentType:”General” and NewsPriority:2(General
-https://github.com/shamkuma/newsFeed/images/SaveScenario_General_GeneralNews.jpg
+https://github.com/shamkuma/newsFeed/blob/master/images/SaveScenario_General_GeneralNews.jpg
 
 
 
 
 OutPut
 GetBreakingNews(URL: http://localhost:8081/getBreakingNews): will return 100 latest breaking news
-https://github.com/shamkuma/newsFeed/images/GetBreakingNews.jpg
+https://github.com/shamkuma/newsFeed/blob/master/images/GetBreakingNews.jpg
 
 
 GetNews(URL: http://localhost:8081/getNews): User has to pass the Timestamp as Parameter
-https://github.com/shamkuma/newsFeed/images/GetNews.jpg
+https://github.com/shamkuma/newsFeed/blob/master/images/GetNews.jpg
 
 
 
 Code Coverage ScreeShot
 Timestamp as Parameter
-https://github.com/shamkuma/newsFeed/images/CodeCoverage.jpg
+https://github.com/shamkuma/newsFeed/blob/master/images/CodeCoverage.jpg
 
 
 
